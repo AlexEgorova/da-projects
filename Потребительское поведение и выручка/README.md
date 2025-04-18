@@ -42,4 +42,4 @@
 
 `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`
 
-📘 [Открыть ноутбук проекта](https://github.com/AlexEgorova/da-EDA-hipo-GoFast/blob/main/da-EDA-hipo-GoFast.ipynb)
+📘 [Открыть ноутбук проекта](https://github.com/AlexEgorova/da-projects/blob/main/Потребительское%20поведение%20и%20выручка/da-EDA-hipo-GoFast.ipynb)
