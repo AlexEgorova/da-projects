@@ -38,4 +38,4 @@
 
 `pandas`, `numpy`, `matplotlib`, `scipy`, `plotly`
 
-📘 [Открыть ноутбук проекта](https://github.com/AlexEgorova/da-AAB-behavour/blob/main/da-AAB-behavour.ipynb)
+📘 [Открыть ноутбук проекта](https://github.com/AlexEgorova/da-projects/blob/main/Потребительское%20поведение%20(AAB-тест)/da-AAB-behavour.ipynb)
