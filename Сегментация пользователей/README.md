@@ -37,4 +37,4 @@
 
 `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`, `datetime`, `math`
 
-📘 [Открыть ноутбук проекта](https://github.com/AlexEgorova/da-customers-app/blob/main/da-customers-app.ipynb)
+📘 [Открыть ноутбук проекта](https://github.com/AlexEgorova/da-projects/blob/main/Сегментация%20пользователей/da-customers-app.ipynb)
