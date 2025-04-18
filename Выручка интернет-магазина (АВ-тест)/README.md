@@ -36,4 +36,4 @@
 
 `pandas`, `numpy`, `matplotlib`, `scipy`
 
-📘 [Открыть ноутбук проекта](https://github.com/AlexEgorova/da-business-decision-ishop/blob/main/da-business-decision-ishop.ipynb)
+📘 [Открыть ноутбук проекта](https://github.com/AlexEgorova/da-projects/blob/main/Выручка%20интернет-магазина%20(АВ-тест)/da-business-decision-ishop.ipynb)
