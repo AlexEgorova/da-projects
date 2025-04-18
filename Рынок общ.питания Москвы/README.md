@@ -40,4 +40,4 @@
 
 `pandas`, `numpy`, `matplotlib`, `seaborn`, `plotly`, `folium`, `json`, `re`
 
-📘 [Открыть ноутбук проекта](https://github.com/AlexEgorova/da-geoanalytic-rest-market/blob/main/da-geoanalytic-rest-market.ipynb)
+📘 [Открыть ноутбук проекта](https://github.com/AlexEgorova/da-projects/blob/main/Рынок%20общ.питания%20Москвы/da-geoanalytic-rest-market.ipynb)
