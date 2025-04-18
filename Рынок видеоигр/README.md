@@ -36,4 +36,4 @@
 
 `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`
 
-📘 [Открыть ноутбук проекта](https://github.com/AlexEgorova/da-games-market/blob/main/da-games-market.ipynb)
+📘 [Открыть ноутбук проекта](https://github.com/AlexEgorova/da-projects/blob/main/Рынок%20видеоигр/da-EDA-games-market.ipynb)
