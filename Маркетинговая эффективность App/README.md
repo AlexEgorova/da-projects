@@ -39,4 +39,4 @@
 
 `pandas`, `numpy`, `matplotlib`, `seaborn`, `datetime`
 
-📘 [Открыть ноутбук проекта](https://github.com/AlexEgorova/da-business-metrics-app/blob/main/da-business-metrics-app.ipynb)
+📘 [Открыть ноутбук проекта](https://github.com/AlexEgorova/da-projects/blob/main/Маркетинговая%20эффективность%20App/da-business-metrics-app.ipynb)
